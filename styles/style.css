@@ -70,7 +70,7 @@ html {
   line-height: 24.3px;
 }
 
-.address_header {
+.header_address {
  justify-self: start;
  margin-left: 184px;
 }
@@ -346,7 +346,7 @@ html {
   margin-left: 50px;
 }
 
-.address_footer {
+.footer_address {
   justify-content: end;
 }
 
